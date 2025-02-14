@@ -42,7 +42,7 @@ const Wisso = {
 </div>
 
 ## 📫 How to reach me
-- Email: badriwissal@gmail.com
+- Email: badriwisso@gmail.com
 - Tel: +212 654-505507
 
 ## 🔗 Connect with me
