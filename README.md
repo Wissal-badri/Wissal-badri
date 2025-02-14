@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fronten | BADRI Wissal
+# 👋 Hi, I'm Software engineering student | BADRI Wissal
 
 > Dedicated engineering student with a strong passion for developing innovative solutions and creating user-centric designs in the field of frontend development.
 
