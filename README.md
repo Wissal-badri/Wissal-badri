@@ -43,7 +43,7 @@ const Wisso = {
 
 ## 📫 How to reach me
 - Email: badriwisso@gmail.com
-- Tel: +212 654-505507
+- Tel: +212 664-505507
 
 ## 🔗 Connect with me
 
