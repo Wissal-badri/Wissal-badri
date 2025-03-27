@@ -9,7 +9,7 @@ const Wisso = {
   location: "Morocco 🇲🦁",
   role: "Software engineering student",
   passions: ["Frontend Development", "Backend Developement"],
-  currentlyLearning: "JAVA" "Angular",
+  currentlyLearning: "JAVA" , "Angular",
 };
 ```
 
