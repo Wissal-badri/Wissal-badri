@@ -8,20 +8,21 @@
   <img src="https://komarev.com/ghpvc/?username=Fronten-Portfolio&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
+
 ## 💫 About Me
 
 ```javascript
 const wissal = {
-  
   location: "Morocco 🇲🇦",
   education: {
-    current: "Software Engineering @ ESTEM (2022-2027)",
+    current: "Software Engineering  Student @ ESTEM (2022-2027)",
     previous: "Baccalauréat Sciences Physiques (Option: Biof) 2022"
   },
   code: ["JavaScript", "TypeScript", "Java", "C++", "C", "HTML", "CSS"],
-  currentlyExploring: ["Angular", "Oracle Database", "Advanced Java"],
-  askMeAbout: ["web dev", "frontend", "backend", "ui/ux"],
-  lifePhilosophy: "Code is poetry written for machines but read by humans"
+  frameworks: ["React.js", "Angular", "Spring Boot", "Node.js", "Express"],
+  databases: ["MySQL", "MongoDB", "Oracle"],
+  askMeAbout: ["frontend", "backend", "full-stack development", "ui/ux"],
+  lifePhilosophy: "Great software is built at the intersection of logic and creativity"
 };
 ```
 
@@ -31,6 +32,7 @@ const wissal = {
 
 ### Frontend
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -40,6 +42,7 @@ const wissal = {
 
 ### Backend
 <p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -52,7 +55,6 @@ const wissal = {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ### Tools & IDEs
@@ -75,9 +77,10 @@ const wissal = {
 
 
 ## 🌱 What I'm Currently Learning
-
+- ⚛️ React.js for building modern user interfaces
 - 🔄 Angular framework for dynamic frontend applications
 - 💾 Oracle Database management and PL/SQL
+- 🌱 Spring Boot for robust backend systems
 - ☕ Advanced Java concepts and enterprise applications
 
 ## 🎯 Goals for 2025
@@ -90,7 +93,7 @@ const wissal = {
 ## 📬 Let's Connect!
 
 <div align="center">
-  <a href="mailto:badriwisso@gmail.com">
+  <a href="mailto:wissalbadri91@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Wissal-badri">
@@ -99,7 +102,7 @@ const wissal = {
   <a href="https://github.com/Wissal-badri">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="tel:+212664505507">
+  <a href="tel:+212664505007">
     <img src="https://img.shields.io/badge/Phone-00C300?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </div>
