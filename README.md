@@ -1,117 +1,121 @@
-# 👋 Hello, I'm Wissal BADRI  
+<div align="center">
 
-<p align="center">
-  <em>“Great software lives at the intersection of logic and creativity.”</em>
-</p>
+# Wissal BADRI
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=26&duration=3000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Building+Digital+Experiences" alt="Typing SVG" />
+
+*"Great software lives at the intersection of logic and creativity"*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+## ✦ About Me
+
+I'm a **Software Engineering student** at ESTEM, Morocco, passionate about creating elegant and efficient digital solutions. My journey in tech is driven by curiosity, creativity, and a commitment to continuous learning.
+
+**Current Focus:** Building modern full-stack applications with React, Angular, and Spring Boot while exploring the depths of database management with Oracle and PostgreSQL.
+
+**Location:** 📍 Casablanca, Morocco  
+**Education:** 🎓 ESTEM - Software Engineering (2022-2027)  
+**Background:** Baccalauréat Sciences Physiques (BIOF) - 2022
 
 ---
 
-## 💫 About Me
-
-```javascript
-const wissal = {
-  location: "Morocco 🇲🇦",
-  education: {
-    current: "Software Engineering  Student @ ESTEM (2022-2027)",
-    previous: "Baccalauréat Sciences Physiques (Option: Biof) 2022"
-  },
-  code: ["JavaScript", "TypeScript", "Java", "C++", "C", "HTML", "CSS"],
-  frameworks: ["React.js", "Angular", "Spring Boot", "Node.js", "Express"],
-  databases: ["MySQL", "MongoDB", "Oracle"],
-  askMeAbout: ["frontend", "backend", "full-stack development", "ui/ux"],
-  lifePhilosophy: "Great software is built at the intersection of logic and creativity"
-};
-```
-
-## 🛠️ My Tech Toolbox
+## ✦ Technology Stack
 
 <div align="center">
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-</p>
+**Frontend Development**
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-</p>
+**Backend Development**
 
-### Tools & IDEs
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-</div>
+**Database & Tools**
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wissal-badri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissal-badri&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-
-## 🌱 What I'm Currently Learning
-- ⚛️ React.js for building modern user interfaces
-- 🔄 Angular framework for dynamic frontend applications
-- 💾 Oracle Database management and PL/SQL
-- 🌱 Spring Boot for robust backend systems
-- ☕ Advanced Java concepts and enterprise applications
-
-## 🎯 Goals for 2025
-
-- 📱 Develop and publish a full-stack web application
-- 🌐 Contribute to open source projects
-- 📚 Master Angular framework and Oracle database systems
-- 🚀 Enhance my portfolio with meaningful projects
-
-## 📬 Let's Connect!
-
-<div align="center">
-  <a href="mailto:wissalbadri91@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Wissal-badri">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/Wissal-badri">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="tel:+212664505007">
-    <img src="https://img.shields.io/badge/Phone-00C300?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
-</div>
-
-<div align="center">
-
-> "You have the vision, I have the skills to make that happen!"
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
+## ✦ GitHub Analytics
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wissal-badri&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C9A0DC&icon_color=C9A0DC&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissal-badri&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C9A0DC&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wissal-badri&theme=radical&hide_border=true&background=0d1117&ring=C9A0DC&fire=C9A0DC&currStreakLabel=C9A0DC"/>
+</div>
+
+---
+
+## ✦ Currently Exploring
+
+**React.js** • Building modern, responsive user interfaces with advanced hooks and state management
+
+**Angular** • Mastering component-based architecture and reactive programming with RxJS
+
+**Spring Boot** • Developing robust RESTful APIs and microservices architecture
+
+**Oracle & PostgreSQL** • Deepening expertise in database design, optimization, and advanced SQL
+
+**UI/UX Principles** • Creating intuitive and aesthetically pleasing user experiences
+
+---
+
+## ✦ 2025 Aspirations
+
+◆ Develop and launch a production-ready full-stack application that solves real-world problems
+
+◆ Contribute meaningfully to open source projects and collaborate with the developer community
+
+◆ Master advanced patterns in Angular framework and Oracle database systems
+
+◆ Build a diverse portfolio showcasing innovative and impactful projects
+
+◆ Expand knowledge in cloud technologies and modern DevOps practices
+
+---
+
+## ✦ Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wissalbadri91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wissal-badri)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wissal-badri)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212664505007)
+
+</div>
+
+---
+
+<div align="center">
+
+### *"You have the vision, I have the skills to make that happen"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+
 </div>
