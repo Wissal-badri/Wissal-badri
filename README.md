@@ -1,6 +1,6 @@
 <div align="center">
 
-# Wissal BADRI
+# 𝓦𝓲𝓼𝓼𝓪𝓵 𝓑𝓐𝓓𝓡𝓘
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=26&duration=3000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Building+Digital+Experiences" alt="Typing SVG" />
 
