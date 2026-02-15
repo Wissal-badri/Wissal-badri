@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,20,22,23&height=120&section=header&text=&fontSize=0" />
+
 # 𝓦𝓲𝓼𝓼𝓪𝓵 𝓑𝓐𝓓𝓡𝓘
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=26&duration=3000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Building+Digital+Experiences" alt="Typing SVG" />
 
 *"Great software lives at the intersection of logic and creativity"*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+---
 
 </div>
 
@@ -57,10 +59,15 @@ I specialize in building robust full-stack applications using modern frameworks 
 **Robust Server Solutions**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
@@ -87,67 +94,36 @@ I specialize in building robust full-stack applications using modern frameworks 
 
 </div>
 
-<div align="center">
-
-### Development Workflow
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#C9A0DC', 'primaryTextColor':'#fff', 'primaryBorderColor':'#C9A0DC', 'lineColor':'#C9A0DC', 'secondaryColor':'#2d1b3d', 'tertiaryColor':'#1a1a1a'}}}%%
-flowchart TD
-    A[💡 Ideation] --> B[🎨 Design]
-    B --> C[⚡ Development]
-    C --> D[🧪 Testing]
-    D --> E[🚀 Deployment]
-    E --> F[📊 Monitoring]
-    F --> |Iterate| A
-    
-    style A fill:#C9A0DC,stroke:#C9A0DC,stroke-width:2px,color:#000
-    style B fill:#2d1b3d,stroke:#C9A0DC,stroke-width:2px
-    style C fill:#2d1b3d,stroke:#C9A0DC,stroke-width:2px
-    style D fill:#2d1b3d,stroke:#C9A0DC,stroke-width:2px
-    style E fill:#2d1b3d,stroke:#C9A0DC,stroke-width:2px
-    style F fill:#2d1b3d,stroke:#C9A0DC,stroke-width:2px
-```
-
-</div>
-
 ---
 
-## ✦ GitHub Activity
+## ✦ GitHub Statistics
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#C9A0DC', 'primaryTextColor':'#fff', 'primaryBorderColor':'#C9A0DC', 'lineColor':'#C9A0DC', 'secondaryColor':'#2d1b3d', 'tertiaryColor':'#1a1a1a'}}}%%
-pie title Development Focus
-    "Flutter & Mobile" : 35
-    "Web Development" : 30
-    "Backend APIs" : 20
-    "Database Design" : 15
-```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wissal-badri&bg_color=0d1117&color=C9A0DC&line=C9A0DC&point=ffffff&area=true&hide_border=true" />
-
-<br/>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
 ### 📊 Language Distribution
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissal-badri&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=C9A0DC&text_color=c9d1d9&ring_color=C9A0DC" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissal-badri&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C9A0DC&text_color=c9d1d9" />
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
 ### 🏆 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wissal-badri&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C9A0DC&icon_color=C9A0DC&text_color=c9d1d9&hide=contribs" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Wissal-badri&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C9A0DC&icon_color=C9A0DC&text_color=c9d1d9" />
 
 </td>
 </tr>
 </table>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wissal-badri&theme=radical&hide_border=true&background=0d1117&stroke=C9A0DC&ring=C9A0DC&fire=C9A0DC&currStreakLabel=C9A0DC" />
+
+<br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wissal-badri&bg_color=0d1117&color=C9A0DC&line=C9A0DC&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -157,9 +133,7 @@ pie title Development Focus
 
 <div align="center">
 
-```
-🎯 Mastering enterprise-level development & modern architectural patterns
-```
+**🎯 Mastering enterprise-level development & modern architectural patterns**
 
 </div>
 
@@ -168,55 +142,53 @@ pie title Development Focus
 <td width="50%" valign="top">
 
 ### ⚛️ React Ecosystem
-```javascript
-const expertise = {
-  focus: "Advanced State Management",
-  mastering: ["Custom Hooks", "Performance Optimization"],
-  goal: "Lightning-fast user interfaces"
-};
-```
-> Building next-generation web experiences with cutting-edge React patterns
+- 🎨 Advanced State Management & Custom Hooks
+- ⚡ Performance Optimization Techniques
+- 🚀 Building lightning-fast user interfaces
+
+> *Building next-generation web experiences with cutting-edge React patterns*
 
 </td>
 <td width="50%" valign="top">
 
-### 🅰️ Angular Framework
-```typescript
-interface Skills {
-  architecture: "Component-based";
-  patterns: "Dependency Injection";
-  reactive: "RxJS Mastery";
-}
-```
-> Creating scalable enterprise applications with robust architecture
+### 🅰️ .NET Framework
+- 🏗️ ASP.NET Core Architecture
+- 💉 Entity Framework & LINQ
+- 🔄 RESTful API Development
+
+> *Creating scalable enterprise applications with robust architecture*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🍃 Spring Boot Microservices
-```java
-@RestController
-public class Expertise {
-    // RESTful API Design
-    // Security Implementation
-    // Cloud-Native Development
-}
-```
-> Engineering reliable backend systems for mission-critical applications
+### 🎨 Laravel Framework
+- 🏗️ MVC Architecture & Eloquent ORM
+- 🔐 Authentication & Authorization
+- 🔄 Queue Management & Task Scheduling
+
+> *Engineering reliable PHP backend systems for modern web applications*
 
 </td>
 <td width="50%" valign="top">
 
+### 🍃 Spring Boot Microservices
+- 🌐 RESTful API Design
+- 🔒 Security Implementation (JWT, OAuth)
+- ☁️ Cloud-Native Development
+
+> *Building mission-critical enterprise backend solutions*
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
 ### 🗄️ Database Systems
-```sql
-SELECT skills FROM expertise
-WHERE technology IN ('Oracle', 'PostgreSQL')
-AND proficiency = 'Advanced';
--- SQL Optimization | Stored Procedures | Design Patterns
-```
-> Architecting high-performance data solutions
+- 📊 Advanced SQL Optimization | 🔧 Stored Procedures & Functions | 🎯 Database Design Patterns
+
+> *Architecting high-performance data solutions with Oracle, PostgreSQL, and MySQL*
 
 </td>
 </tr>
@@ -232,7 +204,7 @@ AND proficiency = 'Advanced';
 
 ---
 
-## ✦ Vision for 2025
+## ✦ Vision for 2026
 
 <div align="center">
 
@@ -307,20 +279,14 @@ Create technology that solves problems and improves people's lives
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-**Open to collaborations, opportunities, and innovative projects.**
+**Open to collaborations, opportunities, and innovative projects**
 
 <br/>
 
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:wissalbadri91@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/wissal-badri)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Wissal-badri)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/212664505007)
-
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wissalbadri91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wissal-badri)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wissal-badri)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212664505007)
 
 <br/>
 
@@ -338,6 +304,8 @@ Create technology that solves problems and improves people's lives
 
 ### *"You have the vision, I have the skills to make that happen"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,20,22,23&height=120&section=footer" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wissal-badri&color=C9A0DC&style=flat-square)
 
 </div>
