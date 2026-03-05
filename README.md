@@ -100,26 +100,10 @@ I specialize in building robust full-stack applications using modern frameworks 
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 📊 Language Distribution
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissal-badri&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=C9A0DC&text_color=c9d1d9" />
-
-</td>
-<td width="50%" align="center">
-
 ### 🏆 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wissal-badri&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=C9A0DC&icon_color=C9A0DC&text_color=c9d1d9" />
 
-</td>
-</tr>
-</table>
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wissal-badri&theme=radical&hide_border=true&background=0d1117&stroke=C9A0DC&ring=C9A0DC&fire=C9A0DC&currStreakLabel=C9A0DC" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wissal-badri&theme=radical&hide_border=true&background=0d1117&stroke=C9A0DC&ring=C9A0DC&fire=C9A0DC&currStreakLabel=C9A0DC&hide=currentStreak,longestStreak" />
 
 <br/>
 
@@ -289,7 +273,6 @@ Create technology that solves problems and improves people's lives
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212664505007)
 
 <br/>
-
 ```
 📧 wissalbadri91@gmail.com
 💼 Available for Freelance & Full-Time Opportunities
